@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  tooling • vulnerability research • forensic analysis • reverse engineering
+  pesquisa de vulnerabilidades • análise forense • engenharia reversa • desenvolvimento de ferramentas
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## Core stack
+## Stack principal
 
 - Python para automação, tooling, análise técnica e scripts utilitários
 - TypeScript e JavaScript para bots, painéis, integrações e backend
@@ -27,7 +27,7 @@
 
 ## Áreas de foco
 
-- Bug bounty e vulnerability research
+- Bug bounty e pesquisa de vulnerabilidades
 - Análise forense e triagem de artefatos
 - Engenharia reversa e análise de binários
 - Automação de workflows e desenvolvimento de ferramentas
@@ -38,19 +38,29 @@
 - Pipelines e automações em Python para reduzir trabalho manual
 - Bots, APIs e tooling em TypeScript para acelerar operações e integrações
 - Utilitários nativos em C++ para cenários de performance e baixo nível
-- Ferramentas de apoio para análise, observabilidade e debugging
+- Ferramentas de apoio para análise, observabilidade e depuração
 
-## Technical snapshot
+## Visão técnica
 
-```txt
-languages  :: Python • TypeScript • JavaScript • C++
-domains    :: Bug bounty • Forensics • Reverse engineering
-systems    :: Windows • Linux • Low-level tooling
-mindset    :: Research-driven • Practical tooling • Automation first
-```
+<table>
+  <tr>
+    <td><strong>Linguagens</strong></td>
+    <td>Python • TypeScript • JavaScript • C++</td>
+  </tr>
+  <tr>
+    <td><strong>Áreas</strong></td>
+    <td>Bug bounty • Forense • Engenharia reversa</td>
+  </tr>
+  <tr>
+    <td><strong>Sistemas</strong></td>
+    <td>Windows • Linux • Tooling de baixo nível</td>
+  </tr>
+  <tr>
+    <td><strong>Abordagem</strong></td>
+    <td>Pesquisa técnica • Ferramentas práticas • Automação primeiro</td>
+  </tr>
+</table>
 
 ## Atualmente
 
-```txt
-building tools, breaking down systems and turning research into practical tooling
-```
+> Transformando pesquisa em ferramentas práticas, reduzindo trabalho manual e aprofundando análise técnica.
