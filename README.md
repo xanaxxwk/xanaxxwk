@@ -3,28 +3,29 @@
 </p>
 
 <p align="center">
-  pesquisa de vulnerabilidades • análise forense • engenharia reversa • desenvolvimento de ferramentas
+  tooling • vulnerability research • forensic analysis • reverse engineering
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUG_BOUNTY-0d1117?style=for-the-badge&labelColor=161b22&color=ff3b3b" alt="Bug Bounty" />
   <img src="https://img.shields.io/badge/AN%C3%81LISE_FORENSE-0d1117?style=for-the-badge&labelColor=161b22&color=3b82f6" alt="Análise Forense" />
   <img src="https://img.shields.io/badge/ENGENHARIA_REVERSA-0d1117?style=for-the-badge&labelColor=161b22&color=f59e0b" alt="Engenharia Reversa" />
+  <img src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-0d1117?style=for-the-badge&labelColor=161b22&color=22c55e" alt="Automação" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,nodejs,bash,linux,git,docker&perline=9" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,nodejs,bash,linux,git,docker,vscode&perline=10" alt="Stack" />
 </p>
 
 ---
 
-## Stack
+## Core stack
 
-- Python para automação, tooling, análise e scripts utilitários
-- JavaScript/TypeScript para bots, painéis, integrações e backends
-- C++ para ferramentas nativas, performance e baixo nível
+- Python para automação, tooling, análise técnica e scripts utilitários
+- TypeScript e JavaScript para bots, painéis, integrações e backend
+- C++ para ferramentas nativas, baixo nível e código orientado a performance
 
-## Áreas de atuação
+## Áreas de foco
 
 - Bug bounty e vulnerability research
 - Análise forense e triagem de artefatos
@@ -32,13 +33,21 @@
 - Automação de workflows e desenvolvimento de ferramentas
 - Investigação técnica em ambientes Windows e Linux
 
-## Foco técnico
+## O que eu construo
 
-- Automação e pipelines em Python
-- Bots, APIs e tooling em TypeScript
-- Ferramentas nativas e utilitários em C++
-- Debugging, tracing e observabilidade
-- Mapeamento e análise de superfície de ataque
+- Pipelines e automações em Python para reduzir trabalho manual
+- Bots, APIs e tooling em TypeScript para acelerar operações e integrações
+- Utilitários nativos em C++ para cenários de performance e baixo nível
+- Ferramentas de apoio para análise, observabilidade e debugging
+
+## Technical snapshot
+
+```txt
+languages  :: Python • TypeScript • JavaScript • C++
+domains    :: Bug bounty • Forensics • Reverse engineering
+systems    :: Windows • Linux • Low-level tooling
+mindset    :: Research-driven • Practical tooling • Automation first
+```
 
 ## Atualmente
 
